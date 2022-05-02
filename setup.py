@@ -9,7 +9,7 @@ from aldryn_categories import __version__
 # python setup.py bdist_wheel upload
 
 setup(
-    name='aldryn-categories',
+    name='aldryn-categories-Zephyrus5',
     version=__version__,
     url='https://github.com/aldryn/aldryn-categories',
     license='BSD License',
