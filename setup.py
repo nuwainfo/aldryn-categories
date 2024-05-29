@@ -39,7 +39,7 @@ setup(
         'Topic :: Software Development :: Libraries',
     ],
     install_requires=[
-        'django>=1.11',
+        'django>=4.2',
         'django-parler',
         'django-treebeard',
         'aldryn-translation-tools',
